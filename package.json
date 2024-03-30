@@ -1,0 +1,11 @@
+{
+  "name": "tugaspraktikum",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "mobile.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rivan",
+  "license": "ISC"
+}
